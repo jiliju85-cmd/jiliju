@@ -1,0 +1,11 @@
+{
+  "name": "Fubao Phonics Adventure",
+  "short_name": "Fubao Phonics",
+  "description": "A gentle Oxford Phonics World 2 learning adventure",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f6ee",
+  "theme_color": "#f7f5eb",
+  "icons": []
+}
